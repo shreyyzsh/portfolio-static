@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on shreyyzsh</title>
+    <link>https://shreyyzsh.vercel.app/tags/</link>
+    <description>Recent content in Tags on shreyyzsh</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://shreyyzsh.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gallery</title>
+      <link>https://shreyyzsh.vercel.app/tags/gallery/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://shreyyzsh.vercel.app/tags/hugo/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>https://shreyyzsh.vercel.app/tags/web/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auth</title>
+      <link>https://shreyyzsh.vercel.app/tags/auth/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/auth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>OAuth</title>
+      <link>https://shreyyzsh.vercel.app/tags/oauth/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/oauth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://shreyyzsh.vercel.app/tags/postgresql/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Supabase</title>
+      <link>https://shreyyzsh.vercel.app/tags/supabase/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/supabase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://shreyyzsh.vercel.app/tags/automation/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bot</title>
+      <link>https://shreyyzsh.vercel.app/tags/bot/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/bot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discord</title>
+      <link>https://shreyyzsh.vercel.app/tags/discord/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/discord/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Discord RPC</title>
+      <link>https://shreyyzsh.vercel.app/tags/discord-rpc/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/discord-rpc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://shreyyzsh.vercel.app/tags/python/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Utility</title>
+      <link>https://shreyyzsh.vercel.app/tags/utility/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/utility/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CSS</title>
+      <link>https://shreyyzsh.vercel.app/tags/css/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game</title>
+      <link>https://shreyyzsh.vercel.app/tags/game/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>HTML</title>
+      <link>https://shreyyzsh.vercel.app/tags/html/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JavaScript</title>
+      <link>https://shreyyzsh.vercel.app/tags/javascript/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/tags/javascript/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

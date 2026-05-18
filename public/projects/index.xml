@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on shreyyzsh</title>
+    <link>https://shreyyzsh.vercel.app/projects/</link>
+    <description>Recent content in Projects on shreyyzsh</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://shreyyzsh.vercel.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Art Gallery</title>
+      <link>https://shreyyzsh.vercel.app/projects/art-gallery/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/projects/art-gallery/</guid>
+      <description>A Hugo-powered art gallery with a clean, image-first presentation.</description>
+    </item>
+    <item>
+      <title>Google Login with Supabase</title>
+      <link>https://shreyyzsh.vercel.app/projects/google-supabase-login/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/projects/google-supabase-login/</guid>
+      <description>A working Google OAuth login flow backed by Supabase Auth and PostgreSQL.</description>
+    </item>
+    <item>
+      <title>Link Mover Bot</title>
+      <link>https://shreyyzsh.vercel.app/projects/linkbot/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/projects/linkbot/</guid>
+      <description>A Discord automation bot that transfers links from one channel to another.</description>
+    </item>
+    <item>
+      <title>NWS-Claude Protocol Bridge</title>
+      <link>https://shreyyzsh.vercel.app/projects/nwsclaudemcp/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/projects/nwsclaudemcp/</guid>
+      <description>&lt;p&gt;This project establishes a &lt;strong&gt;Model Context Protocol&lt;/strong&gt; that bridges the &lt;a href=&#34;https://claude.ai&#34;&gt;Claude Desktop App&lt;/a&gt; with the &lt;strong&gt;US National Weather Service (NWS) API&lt;/strong&gt;, enabling contextual, real-time weather information to be accessed directly within the Claude environment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>iTerm2 Discord Rich Presence</title>
+      <link>https://shreyyzsh.vercel.app/projects/itermrpc/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/projects/itermrpc/</guid>
+      <description>A minimal Discord Rich Presence utility for iTerm2 sessions.</description>
+    </item>
+    <item>
+      <title>Rock Paper Scissors</title>
+      <link>https://shreyyzsh.vercel.app/projects/rock-paper-scissors/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/projects/rock-paper-scissors/</guid>
+      <description>A small browser game built with HTML, CSS, and JavaScript.</description>
+    </item>
+  </channel>
+</rss>

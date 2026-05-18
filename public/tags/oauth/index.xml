@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>OAuth on shreyyzsh</title>
+    <link>https://shreyyzsh.vercel.app/tags/oauth/</link>
+    <description>Recent content in OAuth on shreyyzsh</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://shreyyzsh.vercel.app/tags/oauth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Login with Supabase</title>
+      <link>https://shreyyzsh.vercel.app/projects/google-supabase-login/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://shreyyzsh.vercel.app/projects/google-supabase-login/</guid>
+      <description>A working Google OAuth login flow backed by Supabase Auth and PostgreSQL.</description>
+    </item>
+  </channel>
+</rss>
